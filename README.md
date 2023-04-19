@@ -1,6 +1,4 @@
-# Improved README.md
-
-## Test Q and A
+# Test Q and A
 
 This ReactJS application is a technical exam questionnaire that provides solutions to the questions.
 
